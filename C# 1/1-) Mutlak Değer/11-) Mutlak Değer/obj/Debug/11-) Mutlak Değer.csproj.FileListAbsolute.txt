@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\bin\Debug\11-) Mutlak Değer.exe.config
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\bin\Debug\11-) Mutlak Değer.exe
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\bin\Debug\11-) Mutlak Değer.pdb
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\obj\Debug\11-) Mutlak Değer.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\obj\Debug\11-) Mutlak Değer.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\obj\Debug\11-) Mutlak Değer.exe
+C:\Users\ramse\Desktop\C#\MerhabaVS\11-) Mutlak Değer\11-) Mutlak Değer\obj\Debug\11-) Mutlak Değer.pdb

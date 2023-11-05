@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\bin\Debug\5-) Döngüler.exe.config
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\bin\Debug\5-) Döngüler.exe
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\bin\Debug\5-) Döngüler.pdb
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\obj\Debug\5-) Döngüler.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\obj\Debug\5-) Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\obj\Debug\5-) Döngüler.exe
+C:\Users\ramse\Desktop\C#\C# 1\5-) Döngüler\obj\Debug\5-) Döngüler.pdb

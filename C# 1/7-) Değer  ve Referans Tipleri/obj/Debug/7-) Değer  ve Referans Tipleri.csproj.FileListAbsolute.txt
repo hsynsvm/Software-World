@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\bin\Debug\7-) Değer  ve Referans Tipleri.exe.config
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\bin\Debug\7-) Değer  ve Referans Tipleri.exe
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\bin\Debug\7-) Değer  ve Referans Tipleri.pdb
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\obj\Debug\7-) Değer  ve Referans Tipleri.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\obj\Debug\7-) Değer  ve Referans Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\obj\Debug\7-) Değer  ve Referans Tipleri.exe
+C:\Users\ramse\source\repos\7-) Değer  ve Referans Tipleri\obj\Debug\7-) Değer  ve Referans Tipleri.pdb

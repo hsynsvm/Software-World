@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\bin\Debug\8-) ArrayList ve List.exe.config
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\bin\Debug\8-) ArrayList ve List.exe
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\bin\Debug\8-) ArrayList ve List.pdb
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\obj\Debug\8-) ArrayList ve List.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\obj\Debug\8-) ArrayList ve List.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\obj\Debug\8-) ArrayList ve List.exe
+C:\Users\ramse\Desktop\C#\C# 1\8-) ArrayList ve List\obj\Debug\8-) ArrayList ve List.pdb

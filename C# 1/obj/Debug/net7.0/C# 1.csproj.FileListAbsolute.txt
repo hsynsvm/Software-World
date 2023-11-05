@@ -1,0 +1,14 @@
+C:\Users\ramse\Desktop\C#\C# 1\bin\Debug\net7.0\C# 1.exe
+C:\Users\ramse\Desktop\C#\C# 1\bin\Debug\net7.0\C# 1.deps.json
+C:\Users\ramse\Desktop\C#\C# 1\bin\Debug\net7.0\C# 1.runtimeconfig.json
+C:\Users\ramse\Desktop\C#\C# 1\bin\Debug\net7.0\C# 1.dll
+C:\Users\ramse\Desktop\C#\C# 1\bin\Debug\net7.0\C# 1.pdb
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.AssemblyInfoInputs.cache
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.AssemblyInfo.cs
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.dll
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\refint\C# 1.dll
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.pdb
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\C# 1.genruntimeconfig.cache
+C:\Users\ramse\Desktop\C#\C# 1\obj\Debug\net7.0\ref\C# 1.dll

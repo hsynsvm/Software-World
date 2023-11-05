@@ -1,0 +1,7 @@
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\bin\Debug\5-) Metotlar.exe.config
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\bin\Debug\5-) Metotlar.exe
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\bin\Debug\5-) Metotlar.pdb
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\obj\Debug\5-) Metotlar.csproj.AssemblyReference.cache
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\obj\Debug\5-) Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\obj\Debug\5-) Metotlar.exe
+C:\Users\ramse\Desktop\C#\C# 1\5-) Metotlar\obj\Debug\5-) Metotlar.pdb

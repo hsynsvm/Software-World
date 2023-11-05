@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\bin\Debug\8-) Liste Uygulaması.exe.config
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\bin\Debug\8-) Liste Uygulaması.exe
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\bin\Debug\8-) Liste Uygulaması.pdb
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\obj\Debug\8-) Liste Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\obj\Debug\8-) Liste Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\obj\Debug\8-) Liste Uygulaması.exe
+C:\Users\ramse\source\repos\8-) Liste Uygulaması\obj\Debug\8-) Liste Uygulaması.pdb
